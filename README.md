@@ -1,7 +1,9 @@
 # telinfo-pihat
 Design for  Raspberry Pi hat with Telinfo interface
 
-Based on [PiTInfo V1.2](https://hallard.me/pitinfov12/) by Charles and the [Raspberry Pi HAT KiCAD template](https://www.hackster.io/jonbuford/raspberry-pi-hat-kicad-template-c9d6e7) by Jon Buford. Although due to issues getting the KiCad template feature to work I ended up cloning the [Github kicad_libary](https://github.com/KiCad/kicad-library) and extracting Jon's files from the template directory. 
+Based on [PiTInfo V1.2](https://hallard.me/pitinfov12/) by Charles and the [Raspberry Pi HAT KiCAD template](https://www.hackster.io/jonbuford/raspberry-pi-hat-kicad-template-c9d6e7) by Jon Buford. 
+
+However, due to issues getting the KiCad template feature to work, I ended up cloning the [Github kicad_libary](https://github.com/KiCad/kicad-library) and then manually copying Jon's files from the kicad_library/template directory. 
 
 The reason behind this project is that I'm interested using Raspberry Pis for home automation and I'm learning how to use Kicad to make PCBs. 
 
